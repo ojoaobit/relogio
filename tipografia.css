@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+.poppins-reg {
+  font: 400 1rem/1.3 "Poppins", Helvetica, sans-serif;
+}
+
+.poppins-sb2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 3rem;
+}
